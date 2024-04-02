@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Flanker Garaldus';
+    background-image: url(../font/MonotypeFontSoftwareEndUserLicenseAgreement.html);
+    src: url('../font/MonotypeFontSoftwareEndUserLicenseAgreement.html') format('truetype');
+}
+
+.flanker-garaldus-small-caps {
+    font-family: 'Flanker Garaldus', serif;
+    font-variant: small-caps;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+
+.libra {
+    font-size: 10px;
+    font-family: 'Flanker Garaldus', serif;
+    vertical-align: super;
+    font-size: smaller;
+}
